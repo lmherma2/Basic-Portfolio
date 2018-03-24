@@ -68,6 +68,16 @@
     padding-bottom: 10px;3
 }
 
+.textboxid1{
+    height:200px;
+}
+.textboxid2{
+    height:200px;
+}
+.textboxid3{
+    height:200px;
+}
+
 .Footer1{
 
     position: fixed;
@@ -80,19 +90,13 @@
 
 
 }
-
 .image{
-    float:right;
+    float:left;
     border: 25px;
     padding: 25px;
     margin: 25px;
 }
 
-.image2{
-    border: 25px;
-    padding: 25px;
-    margin: 25px;
-}
 .Footer2{
 
     border: 25px;
